@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">🚀 Carlos Alcantara</h1>
-<h3 align="center">💻 Discord Bot Developer | Web Developer | Minecraft Plugins</h3>
+<h1 align="center">🍃 Carlos Alcantara</h1>
+<h3 align="center">Discord Bot Developer | Web Developer | Minecraft Plugins</h3>
 <p align="center">🇵🇪 From Peru</p>
 
 <p align="center">
@@ -46,13 +46,6 @@ const carlos = {
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevAdvvy&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.instagram.com/carlosu6a/">
@@ -71,7 +64,7 @@ const carlos = {
 ---
 
 <p align="center">
-  ⚡ Turning ideas into code since 2020  
+  ⚡ Turning ideas into code since 2018  
 </p>
 
 <p align="center">
